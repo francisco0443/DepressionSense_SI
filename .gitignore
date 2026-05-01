@@ -1,0 +1,33 @@
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Local editor settings
+.vscode/
+
+# Generated analysis / model artefacts
+analysis_outputs/
+cv_outputs/
+*.h5
+*.joblib
+*.npy
+*.npz
+*.xlsx
+
+# Data / derived files kept local
+*.csv
+*.json
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
